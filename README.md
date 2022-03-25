@@ -1,4 +1,4 @@
-Make a spiral
+# Make a spiral
 
 Create a NxN spiral with a given size.
 
