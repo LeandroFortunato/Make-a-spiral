@@ -28,4 +28,4 @@ Because of the edge-cases for tiny spirals, the size will be at least 5.
 
 General rule-of-a-thumb is, that the snake made with '1' cannot touch to itself.
 
-Source: https://www.codewars.com/kata/576b072359b1161a7b000a17
+Source: https://www.codewars.com/kata/534e01fbbb17187c7e0000c6
