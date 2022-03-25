@@ -1,3 +1,5 @@
+Make a spiral
+
 Create a NxN spiral with a given size.
 
 For example, spiral with size 5 should look like this:
